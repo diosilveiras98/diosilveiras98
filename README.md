@@ -1,4 +1,4 @@
-# Olá, eu sou o Dio! 👋
+# Olá, eu sou o Dionisio! 👋
 
 Sou um estudante de **Engenharia de Software** apaixonado por transformar lógica em soluções eficientes. Meu foco principal é o desenvolvimento **Back-end**. ⚙️
 
